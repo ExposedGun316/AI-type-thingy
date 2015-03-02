@@ -17,7 +17,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	cout << "Hello there! Whats your name?";
 	cin >> name;
-	cout << "Nice to meet you " + name + "! My name is Visual Studio."  << "\n"  "What age are you? ";
+	cout << "Nice to meet you " + name + "! My name is Visual Studios."  << "\n"  "What age are you? ";
 	cin >> age;
 	cout << "You're " + age + "? Thats cool, I'm 500 years old." << "\n" "How are you today?";
 
