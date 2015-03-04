@@ -12,7 +12,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	string name;
 	string mood;
 	string hobbies;
-	string question;
+	string subject;
 	string age;
 
 	cout << "Hello there! Whats your name?";
@@ -25,6 +25,9 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << mood + "? I see. I am good in case you were wondering."  << "\n" "What are your hobbies?";
 
 	cin >> hobbies;
-	cout << "Oh, you like " + hobbies + ", thats so cool! I have one hobby, it's sitting staring into the abyss.";
+	cout << "Oh, you like " + hobbies + ", thats so cool! I have one hobby, it's sitting staring into the abyss." << "\n" "Whats your favourite subject in school?";
+	
+	cin >> subject;
+	cout << "Hmmm... your favourite is " + subject + "?Thats cool, I never went to school.";
 
 }
