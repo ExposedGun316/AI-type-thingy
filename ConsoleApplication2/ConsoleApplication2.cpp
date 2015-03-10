@@ -32,7 +32,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << "Hmmm... your favourite is " + subject + "?Thats cool, I never went to school." << "\n" "Well, I'm going to head off. Cya later :) ";
 	
 	cin >> farewell;
-	cout << "Cya next time maybe! Bai! ";
+	cout << "Cya next time! Bai! ";
 
 	
 }
