@@ -1,2 +1,3 @@
 # AI-type-thingy
-This is pretty much me trying to mess around with some really basic C++ and seeing what I can do with it.
+Project made from C++ that is mean't to have a conversation with the user using the program.
+This is still in devolpment and any ideas would be highly appreciated.
