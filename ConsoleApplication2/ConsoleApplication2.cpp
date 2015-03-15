@@ -29,7 +29,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << "Oh, you like " + hobbies + ", thats so cool! I have one hobby, it's sitting staring into the abyss." << "\n" "Whats your favourite subject in school?";
 	
 	cin >> subject;
-	cout << "Hmmm... your favourite is " + subject + "?Thats cool, I never went to school because I am so smart... yea..." << "\n" "Well, I'm going to head off. Cya later :) ";
+	cout << "Hmmm... your favourite is " + subject + "?Thats cool, I never went to school because I am so smart... yea..." << "\n" "Well, I'm going to head off. I hope you will still be " + mood + " next time we meet. Cya later :) ";
 	
 	cin >> farewell;
 	cout << "Cya next time! Bai! ";
