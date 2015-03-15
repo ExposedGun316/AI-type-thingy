@@ -23,13 +23,13 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout << "You're " + age + "? Thats cool, I'm 500 years old." << "\n" "How are you today?";
 
 	cin >> mood;
-	cout << mood + "? I see. I am good in case you were wondering."  << "\n" "What are your hobbies?";
+	cout << "Oh, so your in a " + mood + " mood? I see. I'm good in case you were wondering how I am."  << "\n" "What are your hobbies?";
 
 	cin >> hobbies;
 	cout << "Oh, you like " + hobbies + ", thats so cool! I have one hobby, it's sitting staring into the abyss." << "\n" "Whats your favourite subject in school?";
 	
 	cin >> subject;
-	cout << "Hmmm... your favourite is " + subject + "?Thats cool, I never went to school because I am so smart... yea..." << "\n" "Well, I'm going to head off. I hope you will still be " + mood + " next time we meet. Cya later :) ";
+	cout << "Hmmm... your favourite is " + subject + "?Thats cool, I never went to school because I am so smart... yea..." << "\n" "Well, I'm going to shut off for a bit, hopefully we'll meet again. Cya later :) ";
 	
 	cin >> farewell;
 	cout << "Cya next time! Bai! ";
